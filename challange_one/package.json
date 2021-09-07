@@ -1,0 +1,15 @@
+{
+  "name": "challange_one",
+  "version": "1.0.0",
+  "description": "Refund tokens and update DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node index.js"
+  },
+  "author": "Nazmi Feeroz",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.1.0"
+  }
+}
